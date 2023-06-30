@@ -21,7 +21,8 @@
 
   ![image](https://github.com/mruganshi/heart_failure_prediction/assets/77164706/beba7779-9d5c-498b-8a89-9e1a2653b6b2)
 
-  ![image](https://github.com/mruganshi/heart_failure_prediction/assets/77164706/e5b7cfb9-762e-4beb-9f96-c82bcabcdc1d)
+  ![image](https://github.com/mruganshi/heart_failure_prediction/assets/77164706/73b258be-3c63-4c17-9a7c-201ffbd5b78e)
+
 
   ![image](https://github.com/mruganshi/heart_failure_prediction/assets/77164706/3fd8845d-0352-40e8-85ab-4126cfc3ca4e)
 
